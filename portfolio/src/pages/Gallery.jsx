@@ -1,12 +1,12 @@
 import React from "react";
 
-function Home(props) {
+function Gallery(props) {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Gallery</h1>
         </div>
     )
 
 }
 
-export default Home;
+export default Gallery;
